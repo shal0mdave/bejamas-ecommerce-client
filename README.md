@@ -10,7 +10,7 @@ All the data is pulled from a mock JSON API hosted on Heroku. <br/>
 For details on that, check here: [(JSON API) https://github.com/shal0mdave/bejamas-ecommerce-api](https://github.com/shal0mdave/bejamas-ecommerce-api)
 <br />
 <br />
-<img src="src/assets/img/screenshot.png" style="margin-bottom: 2em">
+<img src="src/assets/img/screenshot.jpg" style="margin-bottom: 2em">
 <br />
 
 
